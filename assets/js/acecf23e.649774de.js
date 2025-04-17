@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkegroccer_docs=self.webpackChunkegroccer_docs||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/egrocer-documentation/blog","blogTitle":"Blog","authorsListPath":"/egrocer-documentation/blog/authors"}')}}]);
