@@ -17,15 +17,16 @@ const config = {
 
   // Set the production url of your site here
   url: "https://wrteamdev.github.io",
+  baseUrl: "/egrocer-documentation/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "WRTeam-in", // Usually your GitHub org/user name.
   projectName: "egrocer-documentation", // Usually your repo name.
-
+  trailingSlash: true,
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
 
