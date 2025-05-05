@@ -13,7 +13,7 @@ WRTeam has creative and dedicated group of developers who are mastered in Apps D
 Visit Us : [https://wrteam.in](https://wrteam.in/)
 
 Head of Customer Support : Vijya Hirani  
-Skype: [Vijya Hirani](https://join.skype.com/invite/U6gDxDxBIblf)
+Teams: [Vijya Hirani](https://join.skype.com/invite/U6gDxDxBIblf)
 
 Mail Us : support@wrteam.in
 
