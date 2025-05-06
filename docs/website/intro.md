@@ -40,6 +40,6 @@ This documentation will guide you through the features, setup, and customization
 - Order tracking
 - User account management
 
-## Screenshots
+<!-- ## Screenshots -->
 
-![eGrocer Website](/img/website/images/ic_launcher.webp)
+<!-- ![eGrocer Website](/img/website/images/ic_launcher.webp) -->

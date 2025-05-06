@@ -24,6 +24,7 @@ const sidebars = {
       items: [
         "admin-panel/intro",
         "admin-panel/server-requirements",
+        "admin-panel/create-subdomain",
         "admin-panel/php-ini-settings",
         "admin-panel/localhost-setup",
         "admin-panel/server-setup",
