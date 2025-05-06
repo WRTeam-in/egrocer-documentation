@@ -31,7 +31,7 @@ WRTeam has a creative and dedicated group of developers who are masters in App D
 
 **Visit Us:** [https://wrteam.in](https://wrteam.in/)
 
-**Skype:** [Mohan](https://join.skype.com/invite/vIKUkO901sb6)
+**Teams:** [Mohan](https://teams.live.com/l/invite/FEAUrbWj96fM1FmjwM)
 
 **Mail Us:** support@wrteam.in
 

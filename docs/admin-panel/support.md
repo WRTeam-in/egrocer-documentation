@@ -11,7 +11,7 @@ Here you can ask question from WRTeam. You can simply create ticket and we'll su
 Its our pleasure to serve our service and support. please contact our support team.
 
 Head of Customer Support : Vijya Hirani  
-Skype: [Vijya Hirani](https://join.skype.com/invite/U6gDxDxBIblf)
+Teams: [Vijya Hirani](https://teams.live.com/l/invite/FEAbI80T-Q4TEyUrQc)
 
 To help our customers, we constantly be in touch with every customer if they need any assistance regarding our product. We offer our customers a support from **Mon - Fri 9.00am to 6.00pm IST (GMT +5.30) - We are a Team located in India - Asia.**
 
@@ -36,7 +36,7 @@ Get help and support for your eGrocer installation.
    - Knowledge Base: [https://docs.wrteam.in](https://docs.wrteam.in)
 
 3. **Phone Support**
-   - Support Line: +91-XXXXXXXXXX
+   - Support Line: +91-63547 62034
    - Hours: 9:00 AM to 6:00 PM IST
    - Languages: English, Hindi
 
@@ -66,21 +66,16 @@ Get help and support for your eGrocer installation.
 
 ### Ticket System
 
-1. **Creating Tickets**
 
-   - Login to support portal
-   - Click "New Ticket"
-   - Describe your issue
-   - Add attachments if needed
 
-2. **Priority Levels**
+1. **Priority Levels**
 
    - Critical: 4-hour response
    - High: 8-hour response
    - Normal: 24-hour response
    - Low: 48-hour response
 
-3. **Best Practices**
+2. **Best Practices**
    - Be specific
    - Include screenshots
    - List steps to reproduce
@@ -142,8 +137,6 @@ Get help and support for your eGrocer installation.
 
 2. **Benefits**
    - 24/7 Support
-   - Dedicated Agent
-   - Priority Tickets
    - Custom Development
 
 ## Best Practices

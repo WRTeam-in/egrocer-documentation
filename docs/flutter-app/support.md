@@ -8,8 +8,8 @@ sidebar_position: 9
 
 It's our pleasure to serve and support you. Please contact our support team.
 
-Head of Customer Support: Vimal Gondariya  
-Skype: [Vimal Gondariya](https://join.skype.com/invite/BZ8brCpb7far)
+Head of Customer Support: Vimal Gondariya
+Teams: [Vimal Gondariya](https://teams.live.com/l/invite/FEAWPuEHpIz2T9akgE)
 
 To help our customers, we constantly stay in touch with every customer if they need any assistance regarding our product. We offer our customers support from **Mon - Fri 9.00am to 6.00pm IST (GMT +5.30) - We are a Team located in India - Asia.**
 
@@ -34,8 +34,7 @@ If you truly value the hard work and support our team provides, we kindly reques
 WRTeam has a creative and dedicated group of developers who are mastered in Apps Development and Web Application Development with a niche in delivering quality solutions to customers across the globe. Contact us today to find out how we can help you or for freelance work.
 
 Visit Us: [https://wrteam.in](https://wrteam.in)
-
-Skype: [Vimal Gondariya](https://join.skype.com/invite/BZ8brCpb7far)
+Teams: [Vimal Gondariya](https://teams.live.com/l/invite/FEAWPuEHpIz2T9akgE)
 
 Mail Us: support@wrteam.in
 

@@ -6,14 +6,14 @@ sidebar_position: 18
 
 Here you can contact to WRTeam.
 
-![Contact](/img/admin-panel/contact.png)
+<!-- ![Contact](/img/admin-panel/contact.png) -->
 
 WRTeam has creative and dedicated group of developers who are mastered in Apps Developments and Web Application Development with a niche in delivering quality solutions to customers across the globe. Contact us today to find out how we can help you or for freelance work.
 
 Visit Us : [https://wrteam.in](https://wrteam.in/)
 
 Head of Customer Support : Vijya Hirani  
-Teams: [Vijya Hirani](https://join.skype.com/invite/U6gDxDxBIblf)
+Teams: [Vijya Hirani](https://teams.live.com/l/invite/FEAbI80T-Q4TEyUrQc)
 
 Mail Us : support@wrteam.in
 
@@ -34,36 +34,28 @@ Contact WRTeam for any queries, support, or business inquiries.
 
 2. **Phone**
 
-   - Support: +91-XXXXXXXXXX
-   - Sales: +91-XXXXXXXXXX
+   - Support: +91-63547 62034
    - Hours: Monday to Friday, 9:00 AM to 6:00 PM IST
 
 3. **Address**
    ```
-   WRTeam
-   XXX Street, City Name
-   State, Country - PIN
+   #262-263, Time Square Empire, SH 42 Mirjapar Highway, Bhuj - Kutch 370001 Gujarat India
    ```
 
 ## Contact Methods
 
 ### Support Portal
 
-1. **Ticket System**
 
-   - Visit: [support.wrteam.in](https://support.wrteam.in)
-   - Create account
-   - Submit ticket
-   - Track status
 
-2. **Knowledge Base**
+1. **Knowledge Base**
 
    - Documentation
    - Tutorials
    - FAQs
    - Guides
 
-3. **Community**
+2. **Community**
    - Forums
    - Discussion boards
    - User groups
@@ -182,7 +174,6 @@ Contact WRTeam for any queries, support, or business inquiries.
 1. **Response Time**
 
    - Email: 24 hours
-   - Tickets: 48 hours
    - Phone: Immediate
    - Social: 48 hours
 
