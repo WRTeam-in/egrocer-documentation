@@ -6,10 +6,10 @@ sidebar_position: 2
 
 ## Setup Java JDK
 
-If your System already has Java jdk-8 installed, you can skip this step.
+If your System already has Java jdk-19.0.2 installed, you can skip this step.
 
-1. Download Java-11 jdk from [JAVA jdk-11](https://www.oracle.com/java/technologies/downloads/#java11)
-2. Download Java-11 JDK for your version (32 bit or 64 bit)
+1. Download Java-19.0.2 jdk from [JAVA jdk-19.0.2](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html)
+2. Download Java-19.0.2 JDK for your version (32 bit or 64 bit)
 
 ![Java JDK Download](/img/flutter-app/java-jdk11.webp)
 
@@ -18,7 +18,7 @@ If your System already has Java jdk-8 installed, you can skip this step.
 <!-- Note: This image may need to be uploaded or renamed -->
 <!-- ![Accept Agreement](/img/flutter-app/accept%20agreement.webp) -->
 
-4. Once the Java JDK 11 download is complete, run the exe to install JDK. Click Next
+4. Once the Java JDK 19.0.2 download is complete, run the exe to install JDK. Click Next
 
 ![Java Install Next](/img/flutter-app/javainstall-next.webp)
 

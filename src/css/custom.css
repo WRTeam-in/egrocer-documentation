@@ -48,6 +48,7 @@
   background-color: var(--ifm-color-primary);
 }
 
+.label-redesign, .label-updated,
 .label-improved {
   color: #fff;
   background-color: var(--ifm-color-primary);
