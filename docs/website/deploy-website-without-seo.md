@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+title: Deploy Website Without SEO
 ---
 
 ## DNS record entry

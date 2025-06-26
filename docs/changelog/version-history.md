@@ -6,10 +6,23 @@ sidebar_position: 2
 
 This page lists all released versions of the eGrocer platform with release dates and key changes.
 
+## Version 2.1.0 - 25 June 2025
+
+- <span class="label label-added">ADDED</span> SEO (Search engine optimization)
+- <span class="label label-added">UPDATED</span>Updated App codes to the latest Flutter version (3.32.1)
+- <span class="label label-added">IMPROVED</span> UI improvements
+- <span class="label label-added">IMPROVED</span> Payment issue fixed
+- <span class="label label-added">IMPROVED</span> Product screen issue fixed
+- <span class="label label-added">IMPROVED</span> Notification issue fixed
+- <span class="label label-added">IMPROVED</span> Delivery boy cash collection issue fixed
+- <span class="label label-added">IMPROVED</span> Minor issues have been fixed
+
+
 ## Version Compatibility Table
 
 | Product Version | Flutter Version | Kotlin Version | AGP Version | distributionUrl (Gradle) | JDK Version |
 |-----------------|-----------------|----------------|-------------|------------------------|-------------|
+| 2.1.0          | 3.32.1         | 2.0.20         | 8.6.0      | gradle-8.7-all.zip    | 19          |
 | 2.0.9          | 3.29.3         | 2.0.20         | 8.6.0      | gradle-8.7-all.zip    | 19          |
 | 2.0.8          | 3.27.4         | 2.0.0         | 8.5.2      | gradle-8.7-all.zip    | 17          |
 | 2.0.7          | 3.27.3         | 2.0.0         | 8.5.2      | gradle-8.7-all.zip    | 17          |

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 0
+
 ---
 
 # Website Overview
@@ -27,7 +28,9 @@ This documentation will guide you through the features, setup, and customization
 - [Change Theme Color](/docs/website/change-theme-color) - Customizing the website appearance
 - [Firebase Setup](/docs/website/firebase-setup) - Setting up Firebase for the website
 - [Run Website](/docs/website/run-website) - Running the website locally
-- [Deploy Website](/docs/website/deploy-website) - Deploying the website to a server
+- [Deploy Website Without SEO](/docs/website/deploy-website-without-seo) - Deploying the website to a server
+- [SEO For Web](/docs/website/seo-for-web) - SEO details 
+- [Deploy Website Wit SEO](/docs/website/deploy-website-with-seo) - Deploying the website with SEO to a server
 - [Support](/docs/website/support) - Getting help and support
 
 ## Key Features
