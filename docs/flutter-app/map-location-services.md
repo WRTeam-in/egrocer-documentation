@@ -58,6 +58,9 @@ To use Google Maps services, you need to enable billing:
    - Places API
    - Geocoding API
    - Directions API
+   - Distance Matrix API
+   - Places API (New)
+   - Maps JAvascript API
 
    ![Map API Key 4](/img/flutter-app/map-api-key-4.webp)
    ![Map API Key 5](/img/flutter-app/map-api-key-5.webp)

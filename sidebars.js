@@ -58,6 +58,7 @@ const sidebars = {
         "website/deploy-website-without-seo",
         "website/seo-for-web",
         "website/deploy-website-with-seo",
+        "website/htaccess-configuration",
         "website/support",
       ],
     },
