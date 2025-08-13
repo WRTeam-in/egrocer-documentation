@@ -4,42 +4,54 @@ sidebar_position: 2
 
 # Version History
 
-
-
 ## Version Compatibility Table
 
-| Product Version | Flutter Version | Kotlin Version | AGP Version | distributionUrl (Gradle) | JDK Version |
-|-----------------|-----------------|----------------|-------------|------------------------|-------------|
-| 2.1.0          | 3.32.1         | 2.0.20         | 8.6.0      | gradle-8.7-all.zip    | 19          |
-| 2.0.9          | 3.29.3         | 2.0.20         | 8.6.0      | gradle-8.7-all.zip    | 19          |
-| 2.0.8          | 3.27.4         | 2.0.0         | 8.5.2      | gradle-8.7-all.zip    | 17          |
-| 2.0.7          | 3.27.3         | 2.0.0         | 8.5.2      | gradle-8.7-all.zip    | 17          |
-| 2.0.6          | 3.24.5         | 1.9.0          | 7.3.0      | gradle-7.5-all.zip    | 17          |
-| 2.0.5          | 3.24.2         | 1.9.0         | 7.3.0      | gradle-7.6-all.zip    | 17          |
-| 2.0.4          | 3.24.2         | 1.9.0         | 7.3.0      | gradle-7.6-all.zip    | 17          |
-| 2.0.3          | 3.24.0         | 1.9.0         | 7.3.0      | gradle-7.6-all.zip    | 17          |
-<!--| 2.0.2          | 3.13.9         | 1.9.0         | 7.3.0      | gradle-7.6-all.zip    | 17          |
-| 2.0.1          | 3.10.6         | 1.9.0         | 7.3.0      | gradle-7.6-all.zip    | 17          |
-| 2.0.0          | 2.10.5         | 1.9.0         | 7.3.0      | gradle-7.6-all.zip    | 17           |
-| 1.9.9          | 2.10.5         | 1.9.0         | 7.3.0      | gradle-7.6-all.zip    | 17           |
-| 1.9.8          | 2.10.5         | 1.8.0         | 7.1.3      | gradle-7.3.3-all.zip    | 17           |
-| 1.9.7          | 2.10.5         | 1.8.0         | 7.1.3      | gradle-7.3.3-all.zip    | 17           |
-| 1.9.6          | 2.10.5         | 1.8.0         | 7.1.3      | gradle-7.3.3-all.zip    | 17           |
-| 1.9.5          | 2.10.5         | 1.8.0         | 7.1.3      | gradle-7.3.3-all.zip    | 17           |
-| 1.9.3          | 2.10.5         | 1.8.0         | 7.1.3      | gradle-7.3.3-all.zip    | 17           |
-| 1.9.2          | 2.10.5         | 1.8.0         | 7.1.3      | gradle-7.3.3-all.zip    | 17           |
-| 1.9.1          | 2.10.5         | 1.8.0         | 7.1.3      | gradle-7.3.3-all.zip    | 17           |
-| 1.9.0          | 3.10.5         | 1.8.0         | 7.1.3      | gradle-7.3.3-all.zip    | 17           |
-| 1.8.0          | 2.10.5         | 1.8.0         | 7.1.3      | gradle-7.3.3-all.zip    | 17           |
-| 1.7.0          | 2.10.5         | 1.8.0         | 7.1.3      | gradle-7.3.3-all.zip    | 17           |
-| 1.6.0          | 2.10.5         | 1.7.20         | 7.1.3      | gradle-7.3.3-all.zip    | 17           |
-| 1.5.0          | 2.10.5         | 1.7.20         | 7.1.3      | gradle-7.3.3-all.zip    | 17           |
-| 1.4.0          | 2.10.5         | 1.7.20         | 7.1.3      | gradle-7.3.3-all.zip    | 17           |
-| 1.3.0          | 2.10.5         | 1.7.10         | 7.1.3      | gradle-7.3.3-all.zip    | 17           |
-| 1.2.0          | 2.10.5         | 1.7.10         | 7.1.3      | gradle-7.3.3-all.zip    | 17           |
-| 1.1.0          | 2.10.5         | 1.7.10         | 7.1.3      | gradle-7.3.3-all.zip    | 17           |-->
+| Product Version | Flutter Version | Kotlin Version | AGP Version | distributionUrl (Gradle) | JDK Version        |
+| --------------- | --------------- | -------------- | ----------- | ------------------------ | ------------------ | --- |
+| 2.1.1           | 3.32.8          | 2.0.20         | 8.6.0       | gradle-8.7-all.zip       | 19                 |
+| 2.1.0           | 3.32.1          | 2.0.20         | 8.6.0       | gradle-8.7-all.zip       | 19                 |
+| 2.0.9           | 3.29.3          | 2.0.20         | 8.6.0       | gradle-8.7-all.zip       | 19                 |
+| 2.0.8           | 3.27.4          | 2.0.0          | 8.5.2       | gradle-8.7-all.zip       | 17                 |
+| 2.0.7           | 3.27.3          | 2.0.0          | 8.5.2       | gradle-8.7-all.zip       | 17                 |
+| 2.0.6           | 3.24.5          | 1.9.0          | 7.3.0       | gradle-7.5-all.zip       | 17                 |
+| 2.0.5           | 3.24.2          | 1.9.0          | 7.3.0       | gradle-7.6-all.zip       | 17                 |
+| 2.0.4           | 3.24.2          | 1.9.0          | 7.3.0       | gradle-7.6-all.zip       | 17                 |
+| 2.0.3           | 3.24.0          | 1.9.0          | 7.3.0       | gradle-7.6-all.zip       | 17                 |
+| <!--            | 2.0.2           | 3.13.9         | 1.9.0       | 7.3.0                    | gradle-7.6-all.zip | 17  |
+| 2.0.1           | 3.10.6          | 1.9.0          | 7.3.0       | gradle-7.6-all.zip       | 17                 |
+| 2.0.0           | 2.10.5          | 1.9.0          | 7.3.0       | gradle-7.6-all.zip       | 17                 |
+| 1.9.9           | 2.10.5          | 1.9.0          | 7.3.0       | gradle-7.6-all.zip       | 17                 |
+| 1.9.8           | 2.10.5          | 1.8.0          | 7.1.3       | gradle-7.3.3-all.zip     | 17                 |
+| 1.9.7           | 2.10.5          | 1.8.0          | 7.1.3       | gradle-7.3.3-all.zip     | 17                 |
+| 1.9.6           | 2.10.5          | 1.8.0          | 7.1.3       | gradle-7.3.3-all.zip     | 17                 |
+| 1.9.5           | 2.10.5          | 1.8.0          | 7.1.3       | gradle-7.3.3-all.zip     | 17                 |
+| 1.9.3           | 2.10.5          | 1.8.0          | 7.1.3       | gradle-7.3.3-all.zip     | 17                 |
+| 1.9.2           | 2.10.5          | 1.8.0          | 7.1.3       | gradle-7.3.3-all.zip     | 17                 |
+| 1.9.1           | 2.10.5          | 1.8.0          | 7.1.3       | gradle-7.3.3-all.zip     | 17                 |
+| 1.9.0           | 3.10.5          | 1.8.0          | 7.1.3       | gradle-7.3.3-all.zip     | 17                 |
+| 1.8.0           | 2.10.5          | 1.8.0          | 7.1.3       | gradle-7.3.3-all.zip     | 17                 |
+| 1.7.0           | 2.10.5          | 1.8.0          | 7.1.3       | gradle-7.3.3-all.zip     | 17                 |
+| 1.6.0           | 2.10.5          | 1.7.20         | 7.1.3       | gradle-7.3.3-all.zip     | 17                 |
+| 1.5.0           | 2.10.5          | 1.7.20         | 7.1.3       | gradle-7.3.3-all.zip     | 17                 |
+| 1.4.0           | 2.10.5          | 1.7.20         | 7.1.3       | gradle-7.3.3-all.zip     | 17                 |
+| 1.3.0           | 2.10.5          | 1.7.10         | 7.1.3       | gradle-7.3.3-all.zip     | 17                 |
+| 1.2.0           | 2.10.5          | 1.7.10         | 7.1.3       | gradle-7.3.3-all.zip     | 17                 |
+| 1.1.0           | 2.10.5          | 1.7.10         | 7.1.3       | gradle-7.3.3-all.zip     | 17                 | --> |
 
 This page lists all released versions of the eGrocer platform with release dates and key changes.
+
+## Version 2.1.1 - 13 Aug 2025
+
+- <span class="label label-added">ADDED</span> Product AI description in product page (Partner app (delivery boy), admin panel)
+- <span class="label label-added">ADDED</span> POS - Seller panel
+- <span class="label label-added">ADDED</span> Refer and earn settings (Website, customer app, admin panel)
+- <span class="label label-added">ADDED</span> Dynamic charges fields in system settings (Website, customer app, admin panel)
+- <span class="label label-added">ADDED</span> Zoom image feature in product detail page (Website)
+- <span class="label label-added">ADDED</span> Register as seller or delivery boy button in footer
+- <span class="label label-added">ADDED</span> Option to enter product barcode while adding a product (Partner app (delivery boy))
+- <span class="label label-updated">UPDATED</span> Updated App codes to the latest Flutter version (3.32.8)
+- <span class="label label-fixed">FIXED</span> Firebase error in iOS devices solved (Web)
+- <span class="label label-improved">IMPROVED</span> Minor issues have been fixed
 
 ## Version 2.1.0 - 25 June 2025
 
@@ -51,9 +63,6 @@ This page lists all released versions of the eGrocer platform with release dates
 - <span class="label label-added">IMPROVED</span> Notification issue fixed
 - <span class="label label-added">IMPROVED</span> Delivery boy cash collection issue fixed
 - <span class="label label-added">IMPROVED</span> Minor issues have been fixed
-
-
-
 
 ## Version 2.0.9 - 5 May 2025
 
@@ -357,7 +366,3 @@ This page lists all released versions of the eGrocer platform with release dates
 - <span class="label label-added">ADDED</span> Admin panel installer
 - <span class="label label-added">ADDED</span> Separate seller and delivery boy panels
 - <span class="label label-improved">IMPROVED</span> Improvements and issues fixed
-
-
-
-
