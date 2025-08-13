@@ -38,6 +38,7 @@ const sidebars = {
         "admin-panel/payment-gateway",
         "admin-panel/cart-reminder",
         "admin-panel/app-settings",
+        "admin-panel/map-api-key-settings",
         "admin-panel/support",
         "admin-panel/feedback",
         "admin-panel/contact",
@@ -94,6 +95,7 @@ const sidebars = {
         "flutter-partner-app/server-api-config",
         "flutter-partner-app/support",
         "flutter-partner-app/additional-config",
+        "flutter-partner-app/gemini-config"
       ],
     },
 
