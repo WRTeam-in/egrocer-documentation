@@ -8,8 +8,8 @@ sidebar_position: 8
 
 It's our pleasure to serve our service and support. Please contact our support team.
 
-**Head of Customer Support:** Vimal Gondariya  
-**Teams:** [Vimal Gondariya](https://teams.live.com/l/invite/FEAWPuEHpIz2T9akgE)
+**Head of Customer Support:** Hency Pithadiya  
+**Teams:** [Hency Pithadiya](https://teams.live.com/l/invite/FEAeLee40NMWJyoigE)
 
 To help our customers, we constantly stay in touch with every customer if they need any assistance regarding our product. We offer our customers support from **Monday to Friday, 9:00 AM to 6:00 PM IST (GMT +5:30)** - We are a team located in India, Asia.
 
@@ -29,7 +29,7 @@ WRTeam has a creative and dedicated group of developers who are mastered in Apps
 
 **Visit Us:** [https://wrteam.in](https://wrteam.in/)
 
-**Teams:** [Vimal Gondariya](https://teams.live.com/l/invite/FEAWPuEHpIz2T9akgE)
+**Teams:** [Hency Pithadiya](https://teams.live.com/l/invite/FEAeLee40NMWJyoigE)
 
 **Mail Us:** support@wrteam.in
 

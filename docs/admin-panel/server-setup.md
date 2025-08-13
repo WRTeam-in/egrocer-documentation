@@ -24,8 +24,7 @@ Setting up eGrocer on your server is a straightforward process:
 > Remove symlink from your server's disableFunctions
 > ![Disable symlink](/img/admin-panel/disable_sys_link.png)
 
-> Database password Should be include `Capital,Small latters with @ or _  with number`
-> ![Password Suggestion](/img/admin-panel/DatabaseStep3.png)
+> Database password Should be include `Capital,Small latters with @ or _  with number` > ![Password Suggestion](/img/admin-panel/DatabaseStep3.png)
 
 4. Configure your database (enter host, username, password, and database name)
    ![Step 4](/img/admin-panel/step_4.webp)

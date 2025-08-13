@@ -12,8 +12,8 @@ WRTeam has creative and dedicated group of developers who are mastered in Apps D
 
 Visit Us : [https://wrteam.in](https://wrteam.in/)
 
-Head of Customer Support : Vijya Hirani  
-Teams: [Vijya Hirani](https://teams.live.com/l/invite/FEAbI80T-Q4TEyUrQc)
+Head of Customer Support : Hency Pithadiya  
+Teams: [Hency Pithadiya](https://teams.live.com/l/invite/FEAeLee40NMWJyoigE)
 
 Mail Us : support@wrteam.in
 
@@ -45,8 +45,6 @@ Contact WRTeam for any queries, support, or business inquiries.
 ## Contact Methods
 
 ### Support Portal
-
-
 
 1. **Knowledge Base**
 
