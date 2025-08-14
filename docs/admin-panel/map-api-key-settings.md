@@ -113,6 +113,7 @@ Required APIs:
 - Enable Libraries:
   - Places API
   - Places API (NEW)
+  - Distance Matrix API
 
 ![Penal API Key Restriction Screenshot](/img/admin-panel/map-key-penal-place-suggestion.webp)
 
