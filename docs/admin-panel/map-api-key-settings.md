@@ -18,9 +18,12 @@ This document explains how to integrate Google Maps & Firebase APIs for:
 ### **Android**
 Required APIs:
 1. Maps SDK for Android  
-2. Places API (NEW)  
-3. Places API  
-4. Geocoding API  
+2. Identity Toolkit API  
+3. Firebase Installations API  
+4. Firebase Cloud Messaging API  
+5. FCM Registration API  
+6. Firebase App Check API
+7. Cloud Messaging
 
 **Key Generation & Restriction:**
 - Generate **Android API Key** (auto-generated from Firebase project).
@@ -29,9 +32,12 @@ Required APIs:
   - **SHA-1 Fingerprint** (from Firebase settings)
 - Restrict Libraries:
   - Maps SDK for Android
-  - Places API (NEW)
-  - Places API
-  - Geocoding API
+  - Identity Toolkit API
+  - Firebase Installations API
+  - Firebase Cloud Messaging API
+  - FCM Registration API
+  - Firebase App Check API
+  - Cloud Messaging
 - **Platform Identification**: Android
 ![Android API Key Restriction Screenshot](/img/admin-panel/map-key-app-android.webp)
 
@@ -45,6 +51,7 @@ Required APIs:
 4. Firebase Cloud Messaging API  
 5. FCM Registration API  
 6. Firebase App Check API  
+7. Cloud Messaging
 
 **Key Generation & Restriction:**
 - Generate **iOS API Key** (auto-generated from Firebase project).
@@ -57,6 +64,7 @@ Required APIs:
   - Firebase Cloud Messaging API
   - FCM Registration API
   - Firebase App Check API
+  - Cloud Messaging
 
 ![ios API Key Restriction Screenshot](/img/admin-panel/map-key-app-ios.webp)
 
@@ -151,7 +159,7 @@ Required APIs:
   - **90% usage**
 - Email alerts to the dev & admin team.
 
-- **💡 Set up Budget and Quota Notifications**
+- **�� Set up Budget and Quota Notifications**
     - [Budget & Alert Setup Guide](https://drive.google.com/file/d/1bbDnAUpHPuF5xhkGuAe6FBrO8nwoKRNb/view?usp=sharing)
     - [Quota Setup Guide](https://drive.google.com/file/d/1_1zJSNMRnBfrXXYoCm9S4AMqmyTECV6E/view?usp=sharing)
 
@@ -164,4 +172,4 @@ Required APIs:
 
 ---
 
-**📌 NOTE:** Always restrict your API keys to avoid unauthorized usage and unexpected billing.
+**�� NOTE:** Always restrict your API keys to avoid unauthorized usage and unexpected billing.
