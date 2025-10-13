@@ -5,7 +5,7 @@
 <meta name="generator" content="Docusaurus v3.7.0">
 <title data-rh="true">Google Maps &amp; Firebase API Integration Guide | eGrocer Documentation</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://wrteamdev.github.io/egrocer-documentation/img/app_icon.webp"><meta data-rh="true" name="twitter:image" content="https://wrteamdev.github.io/egrocer-documentation/img/app_icon.webp"><meta data-rh="true" property="og:url" content="https://wrteamdev.github.io/egrocer-documentation/docs/admin-panel/map-api-key-settings/"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Google Maps &amp; Firebase API Integration Guide | eGrocer Documentation"><meta data-rh="true" name="description" content="This document explains how to integrate Google Maps &amp; Firebase APIs for:"><meta data-rh="true" property="og:description" content="This document explains how to integrate Google Maps &amp; Firebase APIs for:"><link data-rh="true" rel="icon" href="/egrocer-documentation/img/app_icon.webp"><link data-rh="true" rel="canonical" href="https://wrteamdev.github.io/egrocer-documentation/docs/admin-panel/map-api-key-settings/"><link data-rh="true" rel="alternate" href="https://wrteamdev.github.io/egrocer-documentation/docs/admin-panel/map-api-key-settings/" hreflang="en"><link data-rh="true" rel="alternate" href="https://wrteamdev.github.io/egrocer-documentation/docs/admin-panel/map-api-key-settings/" hreflang="x-default"><link rel="alternate" type="application/rss+xml" href="/egrocer-documentation/blog/rss.xml" title="eGrocer Documentation RSS Feed">
 <link rel="alternate" type="application/atom+xml" href="/egrocer-documentation/blog/atom.xml" title="eGrocer Documentation Atom Feed"><link rel="stylesheet" href="/egrocer-documentation/assets/css/styles.91c25614.css">
-<script src="/egrocer-documentation/assets/js/runtime~main.e60811e1.js" defer="defer"></script>
+<script src="/egrocer-documentation/assets/js/runtime~main.a2598b09.js" defer="defer"></script>
 <script src="/egrocer-documentation/assets/js/main.991fc67f.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -24,9 +24,12 @@
 <p>Required APIs:</p>
 <ol>
 <li>Maps SDK for Android</li>
-<li>Places API (NEW)</li>
-<li>Places API</li>
-<li>Geocoding API</li>
+<li>Identity Toolkit API</li>
+<li>Firebase Installations API</li>
+<li>Firebase Cloud Messaging API</li>
+<li>FCM Registration API</li>
+<li>Firebase App Check API</li>
+<li>Cloud Messaging</li>
 </ol>
 <p><strong>Key Generation &amp; Restriction:</strong></p>
 <ul>
@@ -40,9 +43,12 @@
 <li>Restrict Libraries:<!-- -->
 <ul>
 <li>Maps SDK for Android</li>
-<li>Places API (NEW)</li>
-<li>Places API</li>
-<li>Geocoding API</li>
+<li>Identity Toolkit API</li>
+<li>Firebase Installations API</li>
+<li>Firebase Cloud Messaging API</li>
+<li>FCM Registration API</li>
+<li>Firebase App Check API</li>
+<li>Cloud Messaging</li>
 </ul>
 </li>
 <li><strong>Platform Identification</strong>: Android
@@ -58,6 +64,7 @@
 <li>Firebase Cloud Messaging API</li>
 <li>FCM Registration API</li>
 <li>Firebase App Check API</li>
+<li>Cloud Messaging</li>
 </ol>
 <p><strong>Key Generation &amp; Restriction:</strong></p>
 <ul>
@@ -75,6 +82,7 @@
 <li>Firebase Cloud Messaging API</li>
 <li>FCM Registration API</li>
 <li>Firebase App Check API</li>
+<li>Cloud Messaging</li>
 </ul>
 </li>
 </ul>
@@ -200,7 +208,7 @@
 <p>Email alerts to the dev &amp; admin team.</p>
 </li>
 <li>
-<p><strong>💡 Set up Budget and Quota Notifications</strong></p>
+<p><strong>�� Set up Budget and Quota Notifications</strong></p>
 <ul>
 <li><a href="https://drive.google.com/file/d/1bbDnAUpHPuF5xhkGuAe6FBrO8nwoKRNb/view?usp=sharing" target="_blank" rel="noopener noreferrer">Budget &amp; Alert Setup Guide</a></li>
 <li><a href="https://drive.google.com/file/d/1_1zJSNMRnBfrXXYoCm9S4AMqmyTECV6E/view?usp=sharing" target="_blank" rel="noopener noreferrer">Quota Setup Guide</a></li>
@@ -215,6 +223,6 @@
 <li><a href="https://console.firebase.google.com/" target="_blank" rel="noopener noreferrer">Firebase Project Settings</a></li>
 </ul>
 <hr>
-<p><strong>📌 NOTE:</strong> Always restrict your API keys to avoid unauthorized usage and unexpected billing.</p></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/egrocer-documentation/docs/admin-panel/app-settings/"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">App Settings</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/egrocer-documentation/docs/admin-panel/support/"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Need Support?</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#1-app-api-integration" class="table-of-contents__link toc-highlight">1. APP API INTEGRATION</a><ul><li><a href="#android" class="table-of-contents__link toc-highlight"><strong>Android</strong></a></li><li><a href="#ios" class="table-of-contents__link toc-highlight"><strong>iOS</strong></a></li></ul></li><li><a href="#2-web-api-integration" class="table-of-contents__link toc-highlight">2. WEB API INTEGRATION</a></li><li><a href="#3-admin-panel-api-integration" class="table-of-contents__link toc-highlight">3. ADMIN PANEL API INTEGRATION</a><ul><li><a href="#31-place-api-key" class="table-of-contents__link toc-highlight">3.1 Place API Key</a></li><li><a href="#32-map-api-key" class="table-of-contents__link toc-highlight">3.2 Map API Key</a></li></ul></li><li><a href="#4-quota--alert-setup" class="table-of-contents__link toc-highlight">4. QUOTA &amp; ALERT SETUP</a><ul><li><a href="#quota-setup" class="table-of-contents__link toc-highlight"><strong>Quota Setup</strong></a></li><li><a href="#alert-setup" class="table-of-contents__link toc-highlight"><strong>Alert Setup</strong></a></li></ul></li><li><a href="#5-reference-links" class="table-of-contents__link toc-highlight">5. REFERENCE LINKS</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2025 WRTeam. All rights reserved.</div></div></div></footer></div>
+<p><strong>�� NOTE:</strong> Always restrict your API keys to avoid unauthorized usage and unexpected billing.</p></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/egrocer-documentation/docs/admin-panel/app-settings/"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">App Settings</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/egrocer-documentation/docs/admin-panel/support/"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">Need Support?</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#1-app-api-integration" class="table-of-contents__link toc-highlight">1. APP API INTEGRATION</a><ul><li><a href="#android" class="table-of-contents__link toc-highlight"><strong>Android</strong></a></li><li><a href="#ios" class="table-of-contents__link toc-highlight"><strong>iOS</strong></a></li></ul></li><li><a href="#2-web-api-integration" class="table-of-contents__link toc-highlight">2. WEB API INTEGRATION</a></li><li><a href="#3-admin-panel-api-integration" class="table-of-contents__link toc-highlight">3. ADMIN PANEL API INTEGRATION</a><ul><li><a href="#31-place-api-key" class="table-of-contents__link toc-highlight">3.1 Place API Key</a></li><li><a href="#32-map-api-key" class="table-of-contents__link toc-highlight">3.2 Map API Key</a></li></ul></li><li><a href="#4-quota--alert-setup" class="table-of-contents__link toc-highlight">4. QUOTA &amp; ALERT SETUP</a><ul><li><a href="#quota-setup" class="table-of-contents__link toc-highlight"><strong>Quota Setup</strong></a></li><li><a href="#alert-setup" class="table-of-contents__link toc-highlight"><strong>Alert Setup</strong></a></li></ul></li><li><a href="#5-reference-links" class="table-of-contents__link toc-highlight">5. REFERENCE LINKS</a></li></ul></div></div></div></div></main></div></div></div><footer class="footer footer--dark"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2025 WRTeam. All rights reserved.</div></div></div></footer></div>
 </body>
 </html>
