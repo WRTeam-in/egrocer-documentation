@@ -30,6 +30,7 @@ const sidebars = {
         "admin-panel/server-setup",
         "admin-panel/configure-egroccer",
         "admin-panel/store-settings",
+        "admin-panel/selfpickup-setting",
         "admin-panel/google-map-api",
         "admin-panel/email-settings",
         "admin-panel/login-settings",
