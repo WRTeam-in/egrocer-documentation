@@ -73,6 +73,17 @@ const FeatureList = [
     ),
     link: "/docs/changelog/intro",
   },
+  {
+    title: "FAQ",
+    Svg: require("@site/static/img/app_icon.webp").default,
+    description: (
+      <>
+        Find answers to frequently asked questions about installation, updates,
+        troubleshooting, and best practices for the eGrocer platform.
+      </>
+    ),
+    link: "/docs/faq/intro",
+  },
 ];
 
 function Feature({ Svg, title, description, link }) {

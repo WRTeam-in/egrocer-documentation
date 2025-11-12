@@ -113,6 +113,13 @@ const sidebars = {
       label: "Changelog",
       items: ["changelog/intro", "changelog/version-history"],
     },
+
+    // FAQ Documentation
+    {
+      type: "category",
+      label: "FAQ",
+      items: ["faq/intro"],
+    },
   ],
 };
 

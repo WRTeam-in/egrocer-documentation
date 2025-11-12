@@ -37,6 +37,7 @@ To get started with eGrocer, visit the following sections:
 - [Flutter Partner App Documentation](./flutter-partner-app/intro)
 - [Features Overview](./features/intro)
 - [Changelog](./changelog/intro)
+- [FAQ](./faq/intro)
 
 ## Support
 
