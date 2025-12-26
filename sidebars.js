@@ -77,6 +77,7 @@ const sidebars = {
         "flutter-app/firebase-integration",
         "flutter-app/map-location-services",
         "flutter-app/additional-config",
+        "flutter-app/in-app-purchase",
         "flutter-app/app-distribution",
         "flutter-app/support",
       ],

@@ -8,6 +8,7 @@ sidebar_position: 2
 
 | Product Version | Flutter Version | Kotlin Version | AGP Version | distributionUrl (Gradle) | JDK Version |
 | --------------- | --------------- | -------------- | ----------- | ------------------------ | ----------- |
+| 2.1.4           | 3.38.5          | 2.1.0          | 8.9.1       | gradle-8.11.1-all.zip       | 19          |
 | 2.1.3           | 3.35.5          | 2.1.0          | 8.6.0       | gradle-8.7-all.zip       | 19          |
 | 2.1.2           | 3.35.5          | 2.1.0          | 8.6.0       | gradle-8.7-all.zip       | 19          |
 | 2.1.1           | 3.32.8          | 2.0.20         | 8.6.0       | gradle-8.7-all.zip       | 19          |
@@ -41,6 +42,21 @@ sidebar_position: 2
 | 1.1.0           | 2.10.5          | 1.7.10         | 7.1.3       | gradle-7.3.3-all.zip     | 17          |
 
 This page lists all released versions of the eGrocer platform with release dates and key changes.
+
+## Version 2.1.4 - 26 Dec 2025
+
+- <span class="label label-added">ADDED</span> Membership feature (eGrocer Max) (admin panel, website and customer app)
+- <span class="label label-added">ADDED</span> Delete user product requests (admin penal)
+- <span class="label label-added">ADDED</span> “Only a few left” alert on product listing and detail pages(admin panel, website and customer app)
+- <span class="label label-added">ADDED</span> Rating system enable/disable option(admin panel, website and customer app)
+- <span class="label label-added">ADDED</span> Option for sellers to set 0% commission(admin panel)
+- <span class="label label-added">ADDED</span> Recently visited products section(admin panel, website and customer app)
+- <span class="label label-added">ADDED</span> Add block option for seller(admin panel)
+- <span class="label label-added">ADDED</span> Added blog tags(admin panel, website)
+- <span class="label label-fixed">FIXED</span> Blog UI issues and visual improvements(customer app, website)
+- <span class="label label-improved">IMPROVED</span> Cache management during Product & Seller create form (admin panel)
+- <span class="label label-improved">IMPROVED</span> Homepage UI enhancements(website)
+- <span class="label label-updated">UPDATED</span> App codebase upgraded to the latest Flutter version (3.38.5)(customer app, partner app)
 
 ## Version 2.1.3 - 12 Nov 2025
 
