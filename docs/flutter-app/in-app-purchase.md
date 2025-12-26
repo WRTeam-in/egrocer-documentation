@@ -37,7 +37,7 @@ Apple's App Store guidelines require that all digital content and subscription s
    - Enter the iOS Product ID exactly as created in App Store Connect
    - This ID must match precisely with the one in App Store Connect
 
-![In-App Purchase Setup](/static/img/flutter-app/inAppPurchase.webp)
+![In-App Purchase Setup](/img/flutter-app/inAppPurchase.webp)
 
 ## Important Notes
 

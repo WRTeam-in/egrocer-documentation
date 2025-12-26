@@ -40,6 +40,7 @@ const sidebars = {
         "admin-panel/cart-reminder",
         "admin-panel/app-settings",
         "admin-panel/map-api-key-settings",
+        "admin-panel/subscription",
         "admin-panel/support",
         "admin-panel/feedback",
         "admin-panel/contact",
