@@ -13,7 +13,7 @@ const config = {
   title: "eGrocer Documentation",
   tagline:
     "Online Multi Vendor Grocery Store, eCommerce Marketplace Flutter Full App with Admin Panel",
-  favicon: "img/app_icon.webp",
+  favicon: "img/app_icon.png",
 
   // Set the production url of your site here
   url: "https://wrteamdev.github.io",
@@ -72,7 +72,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/app_icon.webp",
+      image: "img/app_icon.png",
       // Set dark mode as default
       colorMode: {
         defaultMode: "dark",
@@ -83,15 +83,15 @@ const config = {
         title: "eGrocer",
         logo: {
           alt: "eGrocer Logo",
-          src: "img/app_icon.webp",
+          src: "img/app_icon.png",
         },
         items: [
-          {
-            type: "docSidebar",
-            sidebarId: "docsSidebar",
-            position: "left",
-            label: "Documentation",
-          },
+          // {
+          //   type: "docSidebar",
+          //   sidebarId: "docsSidebar",
+          //   position: "left",
+          //   label: "Documentation",
+          // },
           {
             type: "search",
             position: "right",

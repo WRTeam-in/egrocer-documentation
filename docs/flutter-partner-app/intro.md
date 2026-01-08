@@ -30,7 +30,3 @@ This documentation will guide you through the features, setup, and customization
 - Push notifications
 - Earnings tracking
 - Store profile management
-
-## Screenshots
-
-![eGrocer Partner App](/img/flutter-partner-app/screenshot.png)

@@ -6,7 +6,7 @@ import styles from "./styles.module.css";
 const FeatureList = [
   {
     title: "Admin Panel",
-    Svg: require("@site/static/img/app_icon.webp").default,
+    Svg: require("@site/static/img/admin.png").default,
     description: (
       <>
         Powerful admin dashboard to manage products, categories, orders,
@@ -18,7 +18,7 @@ const FeatureList = [
   },
   {
     title: "Website",
-    Svg: require("@site/static/img/app_icon.webp").default,
+    Svg: require("@site/static/img/website.png").default,
     description: (
       <>
         A responsive and user-friendly website to showcase your products and
@@ -30,7 +30,7 @@ const FeatureList = [
 
   {
     title: "Flutter Customer App",
-    Svg: require("@site/static/img/app_icon.webp").default,
+    Svg: require("@site/static/img/mobile.png").default,
     description: (
       <>
         Cross-platform mobile application for customers to browse products,
@@ -42,7 +42,7 @@ const FeatureList = [
   },
   {
     title: "Flutter Partner App",
-    Svg: require("@site/static/img/app_icon.webp").default,
+    Svg: require("@site/static/img/mobile.png").default,
     description: (
       <>
         Dedicated app for vendors and delivery partners to manage product
@@ -53,7 +53,7 @@ const FeatureList = [
   },
   {
     title: "Features",
-    Svg: require("@site/static/img/app_icon.webp").default,
+    Svg: require("@site/static/img/features.png").default,
     description: (
       <>
         Explore the comprehensive feature set available across all eGrocer
@@ -64,7 +64,7 @@ const FeatureList = [
   },
   {
     title: "Changelog",
-    Svg: require("@site/static/img/app_icon.webp").default,
+    Svg: require("@site/static/img/changelog.png").default,
     description: (
       <>
         Stay updated with the latest improvements, bug fixes, and feature
@@ -75,7 +75,7 @@ const FeatureList = [
   },
   {
     title: "FAQ",
-    Svg: require("@site/static/img/app_icon.webp").default,
+    Svg: require("@site/static/img/faq.png").default,
     description: (
       <>
         Find answers to frequently asked questions about installation, updates,

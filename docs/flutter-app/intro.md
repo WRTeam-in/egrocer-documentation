@@ -30,7 +30,3 @@ This documentation will guide you through the features, setup, and customization
 - Push notifications
 - Location-based services
 - Wishlist functionality
-
-## Screenshots
-
-![eGrocer Flutter App](/img/flutter-app/screenshot.png)

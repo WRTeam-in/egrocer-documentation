@@ -48,4 +48,4 @@ This documentation is organized into sections based on the different features an
 
 ## Support
 
-If you need additional help, please refer to the [Support](support) section for contact information and resources.
+If you need additional help, please refer to the [Support](https://teams.live.com/l/invite/FEAeLee40NMWJyoigE) section for contact information and resources.
