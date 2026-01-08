@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wrteamdev.github.io/egrocer-documentation/blog/"/>
     <subtitle>eGrocer Documentation Blog</subtitle>
-    <icon>https://wrteamdev.github.io/egrocer-documentation/img/app_icon.webp</icon>
+    <icon>https://wrteamdev.github.io/egrocer-documentation/img/app_icon.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://wrteamdev.github.io/egrocer-documentation/blog/welcome/</id>
