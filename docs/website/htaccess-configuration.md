@@ -70,7 +70,7 @@ This guide explains how to configure your Apache web server for both static and 
     RewriteBase /
     
     # Allow SSL certificate verificatio
-    RewriteRule ^.well-known/acme-challenge/(.*) /.well-known/acme-challenge/$1 [L]
+    RewriteRule ^./well-known/acme-challenge/(.*) /.well-known/acme-challenge/$1 [L]
     
     # Handle Next.js static files
      RewriteRule ^_next/static/(.*) /.next/static/$1 [L]
