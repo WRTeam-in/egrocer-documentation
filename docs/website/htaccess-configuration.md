@@ -68,13 +68,12 @@ This guide explains how to configure your Apache web server for both static and 
 <IfModule mod_rewrite.c>
     RewriteEngine On
     RewriteBase /
-
-    # Allow SSL certificate verification
+    
+    # Allow SSL certificate verificatio
     RewriteRule ^.well-known/acme-challenge/(.*) /.well-known/acme-challenge/$1 [L]
-
+    
     # Handle Next.js static files
-    RewriteCond %{REQUEST_URI} ^/_next
-    RewriteRule ^(.*)$ http://127.0.0.1:3000/$1 [P]
+     RewriteRule ^_next/static/(.*) /.next/static/$1 [L]
 
     # Allow direct access to common static files
     RewriteCond %{REQUEST_URI} \.(js|css|svg|jpg|jpeg|png|gif|ico)$
