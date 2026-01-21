@@ -25,7 +25,7 @@
   --ifm-color-primary-darkest: #55ae7b;
   --ifm-color-primary-light: #55ae7b;
   --ifm-color-primary-lighter: #55ae7b;
-  --ifm-color-primary-lightest: #55ae7b ;
+  --ifm-color-primary-lightest: #55ae7b;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
@@ -49,7 +49,8 @@
   background-color: var(--ifm-color-primary);
 }
 
-.label-redesign, .label-updated,
+.label-redesign,
+.label-updated,
 .label-improved {
   color: #fff;
   background-color: var(--ifm-color-primary);
@@ -127,7 +128,7 @@
 }
 
 /* Add a little spacing between sidebar categories */
-.menu__list > .menu__list-item {
+.menu__list>.menu__list-item {
   margin-top: 8px;
 }
 
@@ -187,8 +188,7 @@ aside.theme-doc-sidebar-container {
   background-color: var(--ifm-color-emphasis-200);
 }
 
-.navbar-search-button
-  .searchBar_node_modules-\@easyops-cn-docusaurus-search-local-dist-client-client-theme-SearchBar-SearchBar-module {
+.navbar-search-button .searchBar_node_modules-\@easyops-cn-docusaurus-search-local-dist-client-client-theme-SearchBar-SearchBar-module {
   color: var(--ifm-font-color-base);
   font-weight: 500;
 }
@@ -253,4 +253,8 @@ aside.theme-doc-sidebar-container {
   width: 18px;
   height: 18px;
   fill: currentColor;
+}
+
+.doc-banner-wrapper {
+  margin: 24px 0px;
 }
