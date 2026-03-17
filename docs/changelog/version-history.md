@@ -8,7 +8,8 @@ sidebar_position: 2
 
 | Product Version | Flutter Version | Kotlin Version | AGP Version | distributionUrl (Gradle) | JDK Version |
 | --------------- | --------------- | -------------- | ----------- | ------------------------ | ----------- |
-| 2.1.4           | 3.38.5          | 2.1.0          | 8.9.1       | gradle-8.11.1-all.zip       | 19          |
+| 3.0.0           | 3.41.4          | 2.2.20         | 8.11.0      | gradle-8.13-all.zip      | 19          |
+| 2.1.4           | 3.38.5          | 2.1.0          | 8.9.1       | gradle-8.11.1-all.zip    | 19          |
 | 2.1.3           | 3.35.5          | 2.1.0          | 8.6.0       | gradle-8.7-all.zip       | 19          |
 | 2.1.2           | 3.35.5          | 2.1.0          | 8.6.0       | gradle-8.7-all.zip       | 19          |
 | 2.1.1           | 3.32.8          | 2.0.20         | 8.6.0       | gradle-8.7-all.zip       | 19          |
@@ -42,6 +43,19 @@ sidebar_position: 2
 | 1.1.0           | 2.10.5          | 1.7.10         | 7.1.3       | gradle-7.3.3-all.zip     | 17          |
 
 This page lists all released versions of the eGrocer platform with release dates and key changes.
+
+## Version 3.0.0 - 17 Mar 2026
+
+- <span class="label label-added">ADDED</span> Full multi-language support. Previously only labels were translated, now data entries are also translatable across the (admin panel, website and customer app, seller app, seller panel, delivery boy panel)
+- <span class="label label-added">ADDED</span> AI-powered automatic translation for multi-language data across the(admin panel, seller panel, delivery boy panel, seller app)
+- <span class="label label-added">ADDED</span> Option to block delivery boys(admin panel)
+- <span class="label label-added">ADDED</span> Add seller and delivery boy option to send notification
+- <span class="label label-added">ADDED</span> Add thermal print for POS invoices with width setting
+- <span class="label label-improved">IMPROVED</span> Category UI enhancements (customer app)
+- <span class="label label-improved">IMPROVED</span> Performance improve (website)
+- <span class="label label-improved">IMPROVED</span> Add missing fields in bulk upload and update products
+- <span class="label label-updated">UPDATED</span> App codebase upgraded to the latest Flutter version (3.41.4)(customer app, partner app)
+- <span class="label label-fixed">FIXED</span> Other improvements and fixes
 
 ## Version 2.1.4 - 26 Dec 2025
 
