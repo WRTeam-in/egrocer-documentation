@@ -8,8 +8,8 @@ sidebar_position: 12
 
 It's our pleasure to serve and support you. Please contact our support team if you need assistance.
 
-**Head of Customer Support:** Mohan  
-**Teams:** [Mohan](https://teams.live.com/l/invite/FEAUrbWj96fM1FmjwI)
+**Head of Customer Support:** Deep  
+**Teams:** [Deep](https://teams.live.com/l/invite/FEAzZULbcUFLxWFGAQ?v=g1)
 
 To help our customers, we constantly stay in touch with everyone who needs assistance with our product. We offer support from **Monday to Friday, 9:00 AM to 6:00 PM IST (GMT +5:30)** - We are a team located in India, Asia.
 
@@ -31,7 +31,7 @@ WRTeam has a creative and dedicated group of developers who are masters in App D
 
 **Visit Us:** [https://wrteam.in](https://wrteam.in/)
 
-**Teams:** [Mohan](https://teams.live.com/l/invite/FEAUrbWj96fM1FmjwM)
+**Teams:** [Deep](https://teams.live.com/l/invite/FEAzZULbcUFLxWFGAQ?v=g1)
 
 **Mail Us:** support@wrteam.in
 

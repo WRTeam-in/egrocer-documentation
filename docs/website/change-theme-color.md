@@ -18,5 +18,8 @@ Learn how to customize the theme color and other visual aspects of your eGrocer 
 ## How to change website favicon
 
 1. Open the `public` folder in your project directory and replace the `favicon.ico` file with your own favicon image.
+2. You can convert your brand logo into favicon icon formats using an online tool:
+
+     Recommended Tool: https://favicon.io/favicon-converter/
 
 ![Upload Favicon](/img/website/images/upload-favicon.png)
