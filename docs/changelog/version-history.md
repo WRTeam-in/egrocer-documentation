@@ -8,6 +8,7 @@ sidebar_position: 2
 
 | Product Version | Flutter Version | Kotlin Version | AGP Version | distributionUrl (Gradle) | JDK Version |
 | --------------- | --------------- | -------------- | ----------- | ------------------------ | ----------- |
+| 3.0.1           | 3.41.7          | 2.2.20         | 8.11.0      | gradle-8.13-all.zip      | 19          |
 | 3.0.0           | 3.41.4          | 2.2.20         | 8.11.0      | gradle-8.13-all.zip      | 19          |
 | 2.1.4           | 3.38.5          | 2.1.0          | 8.9.1       | gradle-8.11.1-all.zip    | 19          |
 | 2.1.3           | 3.35.5          | 2.1.0          | 8.6.0       | gradle-8.7-all.zip       | 19          |
@@ -43,6 +44,21 @@ sidebar_position: 2
 | 1.1.0           | 2.10.5          | 1.7.10         | 7.1.3       | gradle-7.3.3-all.zip     | 17          |
 
 This page lists all released versions of the eGrocer platform with release dates and key changes.
+
+## Version 3.0.1 - 20 Apr 2026
+
+- <span class="label label-added">ADDED</span> Commission Reports functionality (admin panel)
+- <span class="label label-added">ADDED</span> Delivery Boy salary management page (admin panel, delivery boy panel, partner app (delivery boy))
+- <span class="label label-added">ADDED</span> Purchase price field in product form (admin panel, seller panel, partner app)
+- <span class="label label-added">ADDED</span> Image upload support in TinyMCE editor (admin panel)
+- <span class="label label-added">ADDED</span> Admin can now cancel individual order items (admin panel, partner app)
+- <span class="label label-improved">IMPROVED</span> Payment gateway testing and performance enhancements (system)
+- <span class="label label-improved">IMPROVED</span> Notification redirection handling (customer app, partner app, partner app (delivery boy))
+- <span class="label label-improved">IMPROVED</span> Additional charges calculation and structure (admin panel, customer app, website)
+- <span class="label label-improved">IMPROVED</span> Cart notification system (system)
+- <span class="label label-updated">UPDATED</span> Date format across the system (admin panel, website, customer app, partner app, partner app (delivery boy))
+- <span class="label label-updated">UPDATED</span> App codebase upgraded to the latest Flutter version (3.41.7)(customer app, partner app)
+- <span class="label label-fixed">FIXED</span> Other improvements and fixes
 
 ## Version 3.0.0 - 17 Mar 2026
 
