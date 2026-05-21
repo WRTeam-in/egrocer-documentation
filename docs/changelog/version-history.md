@@ -8,6 +8,7 @@ sidebar_position: 2
 
 | Product Version | Flutter Version | Kotlin Version | AGP Version | distributionUrl (Gradle) | JDK Version |
 | --------------- | --------------- | -------------- | ----------- | ------------------------ | ----------- |
+| 3.0.2           | 3.41.9          | 2.2.20         | 8.11.0      | gradle-8.13-all.zip      | 19          |
 | 3.0.1           | 3.41.7          | 2.2.20         | 8.11.0      | gradle-8.13-all.zip      | 19          |
 | 3.0.0           | 3.41.4          | 2.2.20         | 8.11.0      | gradle-8.13-all.zip      | 19          |
 | 2.1.4           | 3.38.5          | 2.1.0          | 8.9.1       | gradle-8.11.1-all.zip    | 19          |
@@ -44,6 +45,17 @@ sidebar_position: 2
 | 1.1.0           | 2.10.5          | 1.7.10         | 7.1.3       | gradle-7.3.3-all.zip     | 17          |
 
 This page lists all released versions of the eGrocer platform with release dates and key changes.
+
+## Version 3.0.2 - 22 May 2026
+
+- <span class="label label-added">ADDED</span> DPO payment gateway integration for checkout, membership payment, and wallet recharge (admin panel, customer app, website)
+- <span class="label label-added">ADDED</span> Popup offer banner scheduling with automatic start and end date management (admin panel, customer app, website)
+- <span class="label label-added">ADDED</span> Delivery charge refundable/non-refundable setting option (admin panel)
+- <span class="label label-added">ADDED</span> Margin/Profile portion in sales report analytics (admin panel)
+- <span class="label label-improved">IMPROVED</span> Checkout billing UI and overall checkout experience (customer app, website)
+- <span class="label label-improved">IMPROVED</span> Delivery boy return flow accuracy with enhanced statistics labels and tracking system (delivery boy panel, partner app (delivery boy))
+- <span class="label label-updated">UPDATED</span> Complete admin panel UI redesign including dashboard, order listing, order detail page, theme colors, tables, templates, and overall component styling (admin panel)
+- <span class="label label-fixed">FIXED</span> Other improvements, optimizations, and minor bug fixes
 
 ## Version 3.0.1 - 20 Apr 2026
 
