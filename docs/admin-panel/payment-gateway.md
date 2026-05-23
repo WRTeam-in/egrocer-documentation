@@ -79,3 +79,13 @@ Verity of options available for payments, just follow the below steps to configu
 1. Go to [https://dashboard.paytm.com/](https://dashboard.paytm.com/) and sign in with your Paytm account either with credentials or with QR code
    ![Paytm Login](/img/admin-panel/paytm-login.webp)
 2. Active account if not active
+
+## DPO 
+1. Go to DPO Pay Portal [https://dpogroup.com/] and sign in with your DPO Pay merchant account.
+2. After login, open your merchant dashboard.
+3. Go to Settings or Integration Settings from the dashboard menu.
+4. Copy your following credentials:-Company Token,Service Type,API URL (if required)
+4. In your admin panel, navigate to:
+       System -> Payment Methods -> DPO Pay
+
+5. Paste all DPO Pay credentials into the required fields and clcik on update
