@@ -10,7 +10,7 @@ Here you can ask question from WRTeam. You can simply create ticket and we'll su
 
 Its our pleasure to serve our service and support. please contact our support team.
 
-Head of Customer Support : Vipul Vaghjiyani  
+Head of Customer Support : Vrajeshwari Parmar  
 Teams: [Vrajeshwari Parmar](https://teams.live.com/l/invite/FDAoEdGkqMcYb5JLg?v=g1)
 
 To help our customers, we constantly be in touch with every customer if they need any assistance regarding our product. We offer our customers a support from **Mon - Fri 9.00am to 6.00pm IST (GMT +5.30) - We are a Team located in India - Asia.**
