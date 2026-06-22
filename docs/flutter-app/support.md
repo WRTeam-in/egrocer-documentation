@@ -9,7 +9,7 @@ sidebar_position: 9
 It's our pleasure to serve and support you. Please contact our support team.
 
 Head of Customer Support: Hency Pithadiya
-Teams: [Hency Pithadiya](https://teams.live.com/l/invite/FEAeLee40NMWJyoigE)
+Teams: [Nitin Pindoriya](https://teams.live.com/l/invite/FEAwjDjvmxCsgSWYgE)
 
 To help our customers, we constantly stay in touch with every customer if they need any assistance regarding our product. We offer our customers support from **Mon - Fri 9.00am to 6.00pm IST (GMT +5.30) - We are a Team located in India - Asia.**
 
